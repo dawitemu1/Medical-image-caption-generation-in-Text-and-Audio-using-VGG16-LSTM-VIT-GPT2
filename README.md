@@ -5,6 +5,7 @@ We are thrilled to share our latest innovation: a cutting-edge Medical Image Cap
 🔹 Model Architecture:
 
 => Feature Extraction: VGG16 and Vision Transformer (ViT) for image features.
+
 => Caption Generation: GPT-2 and LSTM for natural language processing.
 🔹 Model Saving & Deployment:
 
@@ -30,6 +31,7 @@ By combining state-of-the-art generative AI models and user-centric design, this
 1. Report writing with out  as of the physician with Good precision
 2. Accessibility for visually impaired cancer patients.
 3. AI-generated insights to assist healthcare providers in diagnosis.
+   
 A streamlined, interactive deployment via Streamlit for demonstration and future integration.
 We are excited to lead the way in AI-powered healthcare solutions!
 
