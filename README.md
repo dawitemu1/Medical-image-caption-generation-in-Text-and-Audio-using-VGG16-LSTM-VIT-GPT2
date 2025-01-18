@@ -39,3 +39,6 @@ We are excited to lead the way in AI-powered healthcare solutions!
 
 #MedicalAI #ImageCaptioning #VGG16 #ViT #GPT2 #Streamlit #AIforAccessibility #HealthcareInnovation #GenerativeAI #CancerCare
 
+![image](https://github.com/user-attachments/assets/e1853f1b-6047-487e-95c1-c1a2d5a68d12)
+
+
