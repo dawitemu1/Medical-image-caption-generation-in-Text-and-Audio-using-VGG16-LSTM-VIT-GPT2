@@ -42,7 +42,7 @@ We are excited to lead the way in AI-powered healthcare solutions!
 #MedicalAI #ImageCaptioning #VGG16 #ViT #GPT2 #Streamlit #AIforAccessibility #HealthcareInnovation #GenerativeAI #CancerCare
 
 ![image](https://github.com/user-attachments/assets/a75d312d-326a-4a13-afe7-d205d320e180)
-
+The report is converted into audio for enhanced accessibility and patient suppor in the form of Sound Wave generation
 ![image](https://github.com/user-attachments/assets/1bd3bbea-86c7-4761-94fc-04da8233812a)
 
 # Demo
