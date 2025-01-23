@@ -3,7 +3,7 @@ We are thrilled to share our latest innovation: a cutting-edge Medical Image Cap
 
 ✨ Key Technical Highlights:
 
-🔹 Model Architecture:
+🔹 Model Architecture: Model fussion with Large lnaguage models
 
 => Feature Extraction: VGG16 and Vision Transformer (ViT) for image features.
 
@@ -47,4 +47,4 @@ The report is converted into audio for enhanced accessibility and patient suppor
 
 # Demo
 https://github.com/user-attachments/assets/f06b03d9-b408-4920-bf18-b22a9d7f0265
-
+https://github.com/user-attachments/assets/156a5000-1c37-4dcb-a147-66582ac629fe
