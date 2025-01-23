@@ -3,7 +3,7 @@ We are thrilled to share our latest innovation: a cutting-edge Medical Image Cap
 
 ✨ Key Technical Highlights:
 
-🔹 Model Architecture: Model fussion with Large lnaguage models
+🔹 Model Architecture: Model fussed models such as Vission Tranformer(VIT)-GPT2(LLM) and VGG16-LSTM 
 
 => Feature Extraction: VGG16 and Vision Transformer (ViT) for image features.
 
