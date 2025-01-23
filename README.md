@@ -1,4 +1,4 @@
-## 🌟 Personalized Medical Image Caption Generation in Text and Audio using VIT-GPT2 and VGG16-LSTM🌟
+## 🌟Medical Image Caption and Speech Generation using fussed model such as: VIT-GPT2 and VGG16-LSTM🌟
 We are thrilled to share our latest innovation: a cutting-edge Medical Image Caption Generation System developed using VGG16-LSTM & ViT-GPT2 models. This system generates detailed medical reports and provides audio outputs for accessibility, designed specifically for cancer patients and visually impaired individuals.
 
 ✨ Key Technical Highlights:
