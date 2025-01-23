@@ -46,5 +46,4 @@ The report is converted into audio for enhanced accessibility and patient suppor
 ![image](https://github.com/user-attachments/assets/1bd3bbea-86c7-4761-94fc-04da8233812a)
 
 # Demo
-https://github.com/user-attachments/assets/f06b03d9-b408-4920-bf18-b22a9d7f0265
-
+https://github.com/user-attachments/assets/83116eca-e4f0-4aa0-b604-9bd21cd19c75
